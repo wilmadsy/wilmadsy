@@ -13,7 +13,7 @@ A curious software engineering learner who enjoys challenges and growing every d
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,visualstudiocode,git" />
 </p>
 
 ---
