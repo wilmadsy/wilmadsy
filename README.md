@@ -19,4 +19,8 @@ A curious software engineering learner who enjoys challenges and growing every d
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=wilmadsy&show_icons=true&theme=dark" />
+<p>
+  <a href="https://vercel.com/wilmadsy1s-projects">
+    <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
